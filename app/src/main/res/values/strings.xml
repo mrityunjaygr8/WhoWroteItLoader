@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Who Wrote It? Loader</string>
+    <string name="instructions">Enter a book name, or part of a
+book name, or just some text from a book to find
+the full book title and who wrote the book!</string>
+    <string name="input_hint" >Enter a Book Title</string>
+    <string name="button_text">Search Books</string>
+    <string name="title_textview_loading">Loading...</string>
+    <string name="query_hint">Please Enter a Search Term</string>
+    <string name="network_hint">Please check your network connection and try again.</string>
+    <string name="query_string">queryString</string>
+</resources>
